@@ -1,4 +1,6 @@
 # Read Data 
 
 x <- rnorm(10,2,3)
-y <- rpois(10,3)
+
+
+z <- rbinom(10,2,.8)
